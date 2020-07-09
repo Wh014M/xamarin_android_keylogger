@@ -1,0 +1,12 @@
+C:\Users\Harun\source\repos\Builder\Builder\bin\Debug\Builder.exe.config
+C:\Users\Harun\source\repos\Builder\Builder\bin\Debug\Builder.exe
+C:\Users\Harun\source\repos\Builder\Builder\bin\Debug\Builder.pdb
+C:\Users\Harun\source\repos\Builder\Builder\obj\Debug\Builder.csprojAssemblyReference.cache
+C:\Users\Harun\source\repos\Builder\Builder\obj\Debug\Builder.Form1.resources
+C:\Users\Harun\source\repos\Builder\Builder\obj\Debug\Builder.Properties.Resources.resources
+C:\Users\Harun\source\repos\Builder\Builder\obj\Debug\Builder.csproj.GenerateResource.cache
+C:\Users\Harun\source\repos\Builder\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+C:\Users\Harun\source\repos\Builder\Builder\obj\Debug\Builder.exe
+C:\Users\Harun\source\repos\Builder\Builder\obj\Debug\Builder.pdb
+C:\Users\Harun\source\repos\Builder\Builder\obj\Debug\Builder.Form2.resources
+C:\Users\Harun\source\repos\Builder\Builder\obj\Debug\Builder.Form3.resources
