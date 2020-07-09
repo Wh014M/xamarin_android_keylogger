@@ -1,2 +1,1 @@
-# xamarin_android_keylogger
-Builder and Client
+only for educational purposes, i'm not responsible for anything.
