@@ -3,6 +3,7 @@ using Android.Content;
 using Android.OS;
 using Android.Hardware.Camera2;
 using Android.Runtime;
+using System.Threading.Tasks;
 
 namespace izci
 {
@@ -88,8 +89,9 @@ namespace izci
             return notification;
         }
 
-        private void RunTask(int minutes)
+        private async void RunTask(int minutes)
         {
+            await Task.Delay(60000 * minutes);
             var cameraManager = (CameraManager)GetSystemService(CameraService);
             _hiddenCamera = new HiddenCamera(cameraManager);
             TimerPhotography(minutes);
